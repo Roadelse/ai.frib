@@ -4,3 +4,4 @@
 processed
 IMDB
 *.pt
+lightning_logs
